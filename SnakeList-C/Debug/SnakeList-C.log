@@ -1,0 +1,3 @@
+﻿  Main.c
+e:\myprojectsforlearning\snakelist-c\snakelist-c\main.c(52): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeList-C.vcxproj -> E:\MyProjectsForLearning\SnakeList-C\Debug\SnakeList-C.exe
